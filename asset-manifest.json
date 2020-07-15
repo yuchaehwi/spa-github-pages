@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spa-github-pages/static/css/main.285a1adb.chunk.css",
+    "main.js": "/spa-github-pages/static/js/main.70a6bdaa.chunk.js",
+    "main.js.map": "/spa-github-pages/static/js/main.70a6bdaa.chunk.js.map",
+    "runtime-main.js": "/spa-github-pages/static/js/runtime-main.03533089.js",
+    "runtime-main.js.map": "/spa-github-pages/static/js/runtime-main.03533089.js.map",
+    "static/js/2.ba22a582.chunk.js": "/spa-github-pages/static/js/2.ba22a582.chunk.js",
+    "static/js/2.ba22a582.chunk.js.map": "/spa-github-pages/static/js/2.ba22a582.chunk.js.map",
+    "index.html": "/spa-github-pages/index.html",
+    "precache-manifest.ee7065c21e5a47e8cf9d4d1027709843.js": "/spa-github-pages/precache-manifest.ee7065c21e5a47e8cf9d4d1027709843.js",
+    "service-worker.js": "/spa-github-pages/service-worker.js",
+    "static/css/main.285a1adb.chunk.css.map": "/spa-github-pages/static/css/main.285a1adb.chunk.css.map",
+    "static/js/2.ba22a582.chunk.js.LICENSE.txt": "/spa-github-pages/static/js/2.ba22a582.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/spa-github-pages/static/media/portfolioImg.0a06af8b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03533089.js",
+    "static/js/2.ba22a582.chunk.js",
+    "static/css/main.285a1adb.chunk.css",
+    "static/js/main.70a6bdaa.chunk.js"
+  ]
+}
