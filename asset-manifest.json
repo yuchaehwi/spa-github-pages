@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spa-github-pages/static/css/main.1995892c.chunk.css",
-    "main.js": "/spa-github-pages/static/js/main.07d56255.chunk.js",
-    "main.js.map": "/spa-github-pages/static/js/main.07d56255.chunk.js.map",
+    "main.js": "/spa-github-pages/static/js/main.3961f727.chunk.js",
+    "main.js.map": "/spa-github-pages/static/js/main.3961f727.chunk.js.map",
     "runtime-main.js": "/spa-github-pages/static/js/runtime-main.03533089.js",
     "runtime-main.js.map": "/spa-github-pages/static/js/runtime-main.03533089.js.map",
     "static/js/2.ba22a582.chunk.js": "/spa-github-pages/static/js/2.ba22a582.chunk.js",
     "static/js/2.ba22a582.chunk.js.map": "/spa-github-pages/static/js/2.ba22a582.chunk.js.map",
     "index.html": "/spa-github-pages/index.html",
-    "precache-manifest.56df570b0efb1d0d605fa65f17077dc9.js": "/spa-github-pages/precache-manifest.56df570b0efb1d0d605fa65f17077dc9.js",
+    "precache-manifest.918fa90584f4a1abe2a4cee3964f6d52.js": "/spa-github-pages/precache-manifest.918fa90584f4a1abe2a4cee3964f6d52.js",
     "service-worker.js": "/spa-github-pages/service-worker.js",
     "static/css/main.1995892c.chunk.css.map": "/spa-github-pages/static/css/main.1995892c.chunk.css.map",
     "static/js/2.ba22a582.chunk.js.LICENSE.txt": "/spa-github-pages/static/js/2.ba22a582.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.03533089.js",
     "static/js/2.ba22a582.chunk.js",
     "static/css/main.1995892c.chunk.css",
-    "static/js/main.07d56255.chunk.js"
+    "static/js/main.3961f727.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "245e7bc5442c41c415825397c916dff7",
+    "revision": "d3cc08ea6ba15fef85c8077a896b6759",
     "url": "/spa-github-pages/index.html"
   },
   {
-    "revision": "b2c6bd08e109d9325851",
+    "revision": "d216afcf183233bc58ef",
     "url": "/spa-github-pages/static/css/main.1995892c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-github-pages/static/js/2.ba22a582.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2c6bd08e109d9325851",
-    "url": "/spa-github-pages/static/js/main.07d56255.chunk.js"
+    "revision": "d216afcf183233bc58ef",
+    "url": "/spa-github-pages/static/js/main.3961f727.chunk.js"
   },
   {
     "revision": "abb57be12bb85b7e5573",
